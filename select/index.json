@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ハルカトオク",
+  "base_artist": "saya",
+  "createdAt": "2026-01-09T08:39:14.579062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルカトオク",
+      "artist": "saya",
+      "has_synced": true,
+      "path": "select/01_ハルカトオク_saya.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルカトオク",
+      "artist": "saya",
+      "has_synced": true,
+      "path": "select/02_ハルカトオク_saya.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハルカトオク",
+      "artist": "38番/saya",
+      "has_synced": true,
+      "path": "select/03_ハルカトオク_38番_saya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルカトオク",
+      "artist": "saya",
+      "has_synced": false,
+      "path": "select/pl_01_ハルカトオク_saya.txt"
+    }
+  ]
+}
